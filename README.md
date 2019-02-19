@@ -1,7 +1,4 @@
-Continuous Integration 
-
-[![CircleCI](https://circleci.com/gh/cmusv-fse/s19-CI-CD.svg?style=svg&circle-token=0bfe9b7c8d7b3ab9399690cc3d1bd0b9231243f4)]
-
+Continuous Integration [![CircleCI](https://circleci.com/gh/cmusv-fse/s19-CI-CD.svg?style=svg&circle-token=0bfe9b7c8d7b3ab9399690cc3d1bd0b9231243f4)]
 ==============
 Implementation of a bowling score card.
 
