@@ -1,0 +1,21 @@
+{
+  "name": "BSK",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js FSE-ESN",
+    "stop": "killall -SIGINT FSE-ESN"
+  },
+  "dependencies": {
+    "expect.js": "^0.3.1",
+    "express": "^4.14.0",
+    "istanbul": "^0.4.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-mocha-istanbul": "^3.0.1",
+    "grunt-mocha-test": "^0.12.7",
+    "mocha": "^3.2.0",
+    "mocha-junit-reporter": "^1.8.0"
+  }
+}
