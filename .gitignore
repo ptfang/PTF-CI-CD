@@ -62,3 +62,7 @@ typings/
 
 # Webstorm project folder
 .idea/*
+
+# test results folder
+shippable/*
+undefined/*
