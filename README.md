@@ -19,13 +19,21 @@ Tests results
 
 Coverage results
 ==============
+* Option 1 
 * `grunt coverage`
+
+* Option 2
+* `nyc grunt test`
+
 * The results with be in `coverage/lcov-report/index.html`
 ![Alt text](/resources/coverage.jpg)
 
 CircleCI integration
 ==============
-* Link your account with CircleCI by following ["Getting Started with CircleCI"](https://circleci.com/docs/2.0/first-steps/#section=getting-started).
+
+* Link your account with CircleCI by following 
+["Getting Started with CircleCI"](https://circleci.com/docs/getting-started).
+
 
 * After the account is linked, when you push changes to the repo CircleCI will run your tests and code coverage.
 
