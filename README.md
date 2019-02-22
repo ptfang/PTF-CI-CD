@@ -1,10 +1,12 @@
-Continuous Integration (CircleCI) [![Circle CI](https://circleci.com/gh/cmusv-fse/s18-CI-CD/tree/master.svg?style=svg)](https://circleci.com/gh/cmusv-fse/s18-CI-CD/tree/master)
+Continuous Integration [![CircleCI](https://circleci.com/gh/cmusv-fse/s19-CI-CD.svg?style=svg&circle-token=0bfe9b7c8d7b3ab9399690cc3d1bd0b9231243f4)]
 ==============
 Implementation of a bowling score card.
 
 Reference for Unit Testing lab for FSE Fall 2015 at CMU-SV.
 
 Updated for CircleCI Integration for FSE Spring 2018 at CMU-SV.
+
+Updated for CI/CD recitation for FSE Spring 2019 at CMU-SV.
 
 Install
 ==============
@@ -28,8 +30,10 @@ Coverage results
 
 CircleCI integration
 ==============
+
 * Link your account with CircleCI by following 
 ["Getting Started with CircleCI"](https://circleci.com/docs/getting-started).
+
 
 * After the account is linked, when you push changes to the repo CircleCI will run your tests and code coverage.
 
