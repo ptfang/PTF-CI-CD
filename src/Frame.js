@@ -22,6 +22,7 @@ Frame.prototype.sum = function(){
 };
 
 Frame.prototype.isSpare = function(){
+  console.log("Nothing");
   return (!this.isStrike() && (this._firstThrow + this._secondThrow)==10);
 };
 
